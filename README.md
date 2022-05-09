@@ -7,4 +7,4 @@ virtualbox machine left side not working? Left half portion of the guest's wides
 
 # Screenhot
 
-!()[https://i.hizliresim.com/13kz46u.png]
+![](https://i.hizliresim.com/13kz46u.png)
