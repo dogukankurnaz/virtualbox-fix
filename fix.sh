@@ -45,5 +45,4 @@ banner
 
 $(kill -15 $(ps aux | grep "VBoxClient --draganddrop" | grep "Sl" | awk '{print $2;}')) | $(/usr/bin/VBoxClient --draganddrop) | $(/usr/bin/VBoxClient --clipboard)
 
-sleep 2
 echo -e "${BWHITE}Status = Successfully Completed."
